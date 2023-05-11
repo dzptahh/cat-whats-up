@@ -1,5 +1,5 @@
 # Cat What's Up
-Cat What's Up is a game where you control a cat and help it fly through gaps between pipes. You make the cat go up by tapping the space bar. You get one point for each successful pass through a pair of pipes. If you hit a pipe or the ground, the game ends.
+Cat What's Up is a game where you control a cat and help it fly through gaps between pipes. You make the cat go up by tapping the <kbd>Space</kbd> key. You get one point for each successful pass through a pair of pipes. If you hit a pipe or the ground, the game ends.
 
 ## Members
 - Nichakorn Chanajitpairee (6410545452)
