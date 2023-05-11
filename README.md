@@ -6,7 +6,10 @@ A README file which includes the names of your team members and instructions on 
 - Danita Frikaow (6410545461)
 - Parichaya Yangsiri (6410545517)
 
-## Instructions
+## Instructions on how to run
+You can run the file java (IntelliJ IDEA) directly by pressing the run button.
+
+## Instructions on how to play
 1. To start the game, use the <kbd>Space</kbd> key to play.
 2. You can control the **CAT** by pressing the <kbd>Space</kbd> key; the more you press it, the higher the cat will go.
 3. Your goal is to avoid the tubes, which are obstacles in the game.
