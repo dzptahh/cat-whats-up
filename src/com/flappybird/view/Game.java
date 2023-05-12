@@ -102,7 +102,7 @@ public class Game extends JPanel implements ActionListener {
                 g2.setColor(Color.black);
                 g2.setFont(new Font("Arial", Font.BOLD, 40));
                 g2.drawString("Game Over", GameFrame.WIDTH / 2 - 100, GameFrame.HEIGHT / 2);
-                g2.setColor(Color.black);
+                g2.setColor(Color.white);
                 g2.setFont(new Font("Arial", Font.BOLD, 20));
                 g2.drawString("Click to Restart or Exit", GameFrame.WIDTH / 2 - 120, GameFrame.HEIGHT / 2 + 40);
                 restartButton.setVisible(true); // Show the restart button
