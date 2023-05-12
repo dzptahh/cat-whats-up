@@ -18,3 +18,4 @@ You can run the file java (IntelliJ IDEA) directly by pressing the run button.
 6. To start a new game and reset your score to 0, simply press the <kbd>Space</kbd> key again.
 
 ## Preview
+![preview](204F9D86-D527-4302-A147-A2E6B2A3A51D.gif)
